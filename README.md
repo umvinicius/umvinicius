@@ -1,6 +1,6 @@
 ##
 
-<div>
+<div align="center">
   <a href="https://github.com/umvinicius">
   <img width="50%" height="150px" src="https://github-readme-stats.vercel.app/api?username=umvinicius&show_icons=true&theme=radical&include_allcommits=true&count_private=false"/>
   <img width="50%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umvinicius&layout=compact&langs_count=16&theme=radical"/>
