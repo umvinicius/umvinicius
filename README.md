@@ -1,8 +1,8 @@
 ##
 
-<div align="center" style="display: flex;width: 100%;height: 100%;">
-  <img width="auto" height="200em" src="https://github-readme-stats.vercel.app/api?username=umvinicius&show_icons=true&theme=radical&include_allcommits=true&count_private=false"/>
-  <img width="auto" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umvinicius&layout=compact&langs_count=16&theme=radical"/>
+<div align="center">
+  <img width="auto" height="170em" src="https://github-readme-stats.vercel.app/api?username=umvinicius&show_icons=true&theme=radical&include_allcommits=true&count_private=false"/>
+  <img width="auto" height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umvinicius&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
   
